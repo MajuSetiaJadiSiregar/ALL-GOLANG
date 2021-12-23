@@ -5,7 +5,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func mainOne() {
 	fmt.Println("Hallo, Belajar Golang")
 
 	sentence := testPackage()
